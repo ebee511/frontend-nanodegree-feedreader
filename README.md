@@ -1,5 +1,4 @@
 # Feed Reader Application
-===============================
 
 This is a web-based application that reads RSS feeds.
 
@@ -26,13 +25,13 @@ There are feed reader tests already implemented to ensure proper functionality o
 
 ## Dependencies
 
-[Udacity](https://github.com/udacity) for starter files.
-[Jasmine](http://jasmine.github.io/) for unit testing.
-[jQuery](https://jquery.com/) for access to the DOM.
-[Handlebars](https://handlebarsjs.com/) for templating.
-[Google Fonts](https://fonts.google.com/) for fonts. 
-[Google API](https://developers.google.com/apis-explorer/#p/) for Google Feed Reader API.
-[JamieMason](https://github.com/JamieMason/Jasmine-Matchers) for Jasmine matchers.
+* [Udacity](https://github.com/udacity) for starter files.
+* [Jasmine](http://jasmine.github.io/) for unit testing.
+* [jQuery](https://jquery.com/) for access to the DOM.
+* [Handlebars](https://handlebarsjs.com/) for templating.
+* [Google Fonts](https://fonts.google.com/) for fonts. 
+* [Google API](https://developers.google.com/apis-explorer/#p/) for Google Feed Reader API.
+* [JamieMason](https://github.com/JamieMason/Jasmine-Matchers) for Jasmine matchers.
 
 ## Contributions
 
